@@ -26,6 +26,9 @@
 }
 
 .u-section-1 .u-text-2 {
+  font-weight: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
   margin: 24px 26px 0;
 }
 
@@ -93,6 +96,13 @@
 
   .u-section-1 .u-text-1 {
     font-size: 3rem;
+    letter-spacing: -3px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-weight: 300;
+    line-height: 1.2;
+    letter-spacing: -1px;
   }
 } .u-section-2 {
   background-image: none;

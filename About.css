@@ -241,8 +241,30 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1070px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-bottom: 58px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 952px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+  }
+
   .u-section-3 .u-text-1 {
     font-size: 2.25rem;
+    width: auto;
+    margin-top: 0;
   }
 } .u-section-4 {
   background-image: linear-gradient(0deg, rgba(133,142,153,0.1), rgba(133,142,153,0.1)), url("images/pexelsphoto3825576.jpeg");
