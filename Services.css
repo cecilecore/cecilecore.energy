@@ -354,12 +354,12 @@
 
 .u-section-2 .u-text-2 {
   font-size: 1rem;
+  font-weight: normal;
   margin: 12px auto 52px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-text-2 {
-    font-weight: normal;
     width: 254px;
   }
 }
@@ -582,6 +582,7 @@
 
 .u-section-4 .u-text-2 {
   font-size: 1rem;
+  font-weight: normal;
   margin: 32px 268px 0 216px;
 }
 
@@ -620,7 +621,6 @@
   }
 
   .u-section-4 .u-text-2 {
-    font-weight: normal;
     margin-right: 168px;
   }
 
@@ -670,11 +670,13 @@
 @media (max-width: 575px) {
   .u-section-4 .u-text-1 {
     font-size: 1.5rem;
-    margin-left: 116px;
+    margin-left: auto;
   }
 
   .u-section-4 .u-text-2 {
-    margin-left: 102px;
+    width: 238px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-4 .u-form-1 {
