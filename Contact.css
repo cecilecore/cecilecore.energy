@@ -67,8 +67,8 @@
 
 .u-section-2 .u-image-1 {
   min-height: 527px;
-  background-image: url("images/pexelsphoto1600130.jpeg");
-  background-position: 50% 50%;
+  background-image: url("images/DSC_4103.jpg");
+  background-position: 50% 33.2%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -132,6 +132,7 @@
   }
 
   .u-section-2 .u-image-1 {
+    background-position: 50% 50%;
     min-height: 435px;
   }
 
@@ -219,6 +220,7 @@
   }
 
   .u-section-2 .u-image-1 {
+    background-position: 50% 27.7%;
     min-height: 315px;
   }
 
